@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RobotContact/static/css/main.0cf388e8.chunk.css",
+    "main.js": "/RobotContact/static/js/main.a478b591.chunk.js",
+    "main.js.map": "/RobotContact/static/js/main.a478b591.chunk.js.map",
+    "runtime-main.js": "/RobotContact/static/js/runtime-main.ab58f8bc.js",
+    "runtime-main.js.map": "/RobotContact/static/js/runtime-main.ab58f8bc.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/RobotContact/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f5016c65.chunk.js": "/RobotContact/static/js/2.f5016c65.chunk.js",
+    "static/js/2.f5016c65.chunk.js.map": "/RobotContact/static/js/2.f5016c65.chunk.js.map",
+    "index.html": "/RobotContact/index.html",
+    "precache-manifest.848d16c3b61e8cc41b0925e97ef801a9.js": "/RobotContact/precache-manifest.848d16c3b61e8cc41b0925e97ef801a9.js",
+    "service-worker.js": "/RobotContact/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/RobotContact/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.0cf388e8.chunk.css.map": "/RobotContact/static/css/main.0cf388e8.chunk.css.map",
+    "static/js/2.f5016c65.chunk.js.LICENSE.txt": "/RobotContact/static/js/2.f5016c65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab58f8bc.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.f5016c65.chunk.js",
+    "static/css/main.0cf388e8.chunk.css",
+    "static/js/main.a478b591.chunk.js"
+  ]
+}

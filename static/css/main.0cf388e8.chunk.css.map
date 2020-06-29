@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACC,QAAS,CACT,SAAS,CACT,sBAAuB,CACvB,iDACD","file":"main.0cf388e8.chunk.css","sourcesContent":["body {\r\n\tmargin :0;\r\n\tpadding:0;\r\n\tfont-family: sans-serif;\r\n\tbackground: linear-gradient(to right, rgb(23, 150, 23), rgb(79, 74, 74));\r\n}"]}
